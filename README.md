@@ -60,5 +60,5 @@ Follow these steps to set up and run the project on your local machine.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/MahimaSinghRathore/hostel-smart-water-management.git
+git clone https://github.com/MahimaSinghRathore/water_management_system.git
 cd hostel-smart-water-management
